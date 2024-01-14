@@ -1,0 +1,49 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.carousel-inne{
+    display: flex;
+}
+.main-card{
+    display: flex;
+    float:  left;
+    padding: 57px;
+    justify-content: space-around;
+
+}
+.card{
+    justify-content: space-around;
+    margin: 10px;
+}
+.documentry{
+    margin: 30px;
+    padding: 50px;
+    align-content: center;
+    margin-left:300px; 
+    text-align: justify;
+}
+.heading{
+
+    align-content: center;
+    color:black;
+    text-shadow: 1px 5px 4px brown;
+    font-family: 'Anton', sans-serif;
+}
+.heading h1{
+    text-align: center;
+
+}
+.paragraph{
+    text-align: center;
+}
+.figure{
+    align-items: center;
+    justify-content: center;
+    margin-left:300px; 
+
+}
